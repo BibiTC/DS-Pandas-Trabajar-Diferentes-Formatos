@@ -1,0 +1,17 @@
+<productos>
+  <producto id="1">
+    <nombre>Smartphone</nombre>
+    <precio>4500.00</precio>
+    <categoria>Celulares</categoria>
+  </producto>
+  <producto id="2">
+    <nombre>Notebook</nombre>
+    <precio>5000.00</precio>
+    <categoria>Computadores</categoria>
+  </producto>
+  <producto id="3">
+    <nombre>Tablet</nombre>
+    <precio>2000.00</precio>
+    <categoria>Celulares</categoria>
+  </producto>
+</productos>
